@@ -6,3 +6,4 @@ char* getString();
 
 // dovrebbe esserci!
 // questi si!
+// va proprio bene!
