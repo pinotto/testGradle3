@@ -5,3 +5,5 @@
 char* getString();
 
 // dovrebbe esserci!
+
+//dovrebbe proprio andare
